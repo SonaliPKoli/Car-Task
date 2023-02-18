@@ -27,3 +27,5 @@ Simple Car 3D scene with Physics Controller
 -cinemachine package
 
 -free arcade car asset
+
+Note : The repository does not contain library folder created by unity.
