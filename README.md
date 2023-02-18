@@ -8,7 +8,7 @@ Simple Car 3D scene with Physics Controller
 
 # Installation
 
--Create a new 3D project
+-create a new 3D project
 
 -add package cinebench
 
